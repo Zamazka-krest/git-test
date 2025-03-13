@@ -23,7 +23,7 @@ body {
   display: block;
   font-size: 20px;
   align-items: center;
-  padding: 15px;
+  padding: 20px;
   text-align: center;
   font-family: "Outfit", sans-serif;
 }
@@ -32,7 +32,7 @@ img {
   width: 100%;
 }
 label {
-  font-size: 12px;
+  font-size: 15px;
   margin: 10px;
   padding: 0;
   font-weight: 400;
